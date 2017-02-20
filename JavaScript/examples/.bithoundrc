@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "unused-ignores": [
+      "mkdirp",
+      "bcrypt"
+    ]
+  },
+  "critics": {
+    "lint": {
+      "engine": "eslint"
+    },
+    "wc": {
+      "limit": 40000
+    }
+  },
+  "ignore": [
+    "**/node_modules/**",
+    "tests/**"
+  ],
+  "test": [
+    "tests/**"
+  ]
+}
