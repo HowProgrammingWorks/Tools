@@ -1,11 +1,9 @@
 # Инструменты разработчика C#
 | [English](README.md) | [Русский](README.ru.md) |
 
-(документ в процессе написания)
-
 Обязательные компоненты:
   1. Компиляторы: [.NET](https://www.microsoft.com/net/download/framework) (Windows),  [.NET Core](https://www.microsoft.com/net/download/core) (Windows, Mac OS, Linux), [Mono](http://www.mono-project.com/download/) (Windows, Mac OS, Linux)
-  2. Линтеры:
+  2. Линтеры: [C# Linter for VS Code] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
   3. VCS - система контроля версий: [GitHub](https://github.com/), [GIT](https://git-scm.com/), [GUI](https://desktop.github.com/)
 
 Опциональные компоненты:
