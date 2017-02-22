@@ -5,9 +5,9 @@
 
 Required software:
   1. Compilers:
-  2. Linters:
+  2. Linters: [flake8](http://flake8.pycqa.org/), [pyflakes](https://github.com/PyCQA/pyflakes), [mypy](http://mypy-lang.org/) *(experimental)*
   3. VCS - Version Control System - [GitHub](https://github.com/), [GIT](https://git-scm.com/), [GUI](https://desktop.github.com/)
 
 Optional tools:
-  1. IDE - Integrated development environment: [Brackets](http://brackets.io/), [Atom](https://atom.io/)
+  1. IDE - Integrated development environment: [Brackets](http://brackets.io/), [Atom](https://atom.io/), [PyCharm](https://www.jetbrains.com/pycharm/specials/pycharm/pycharm.html)
   2. CI - Continuous Integration - [TravisCI](https://travis-ci.org/)
