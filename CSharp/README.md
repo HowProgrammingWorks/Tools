@@ -1,4 +1,4 @@
-# C# Development Tools
+# C\# Development Tools
 | [English](README.md) | [Русский](README.ru.md) |
 
 Required software:
