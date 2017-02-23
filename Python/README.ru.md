@@ -6,7 +6,7 @@
 Обязательные компоненты:
   1. Компиляторы:
   2. Линтеры: [flake8](http://flake8.pycqa.org/), [pyflakes](https://github.com/PyCQA/pyflakes), [mypy](http://mypy-lang.org/) *(экспериментальный)*
-  3. VCS - система контроля версий - [GitHub](https://github.com/), [GIT](https://git-scm.com/), [GUI](https://desktop.github.com/)
+  3. VCS - система контроля версий - [GitHub](https://github.com/), [Git](https://git-scm.com/), [GUI](https://desktop.github.com/)
 
 Опциональные компоненты:
   1. IDE - редактор или среда разработки: [Brackets](http://brackets.io/), [Atom](https://atom.io/), [PyCharm](https://www.jetbrains.com/pycharm/specials/pycharm/pycharm.html)

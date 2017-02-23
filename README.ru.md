@@ -10,4 +10,4 @@
   6. [Swift](Swift/README.ru.md)
   7. [Java](Java/README.ru.md)
   8. [Lisp](Lisp/README.ru.md)
-  9. [CSharp](CSharp/README.ru.md)
+  9. [C&#35;](CSharp/README.ru.md)
