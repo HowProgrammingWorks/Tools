@@ -3,7 +3,7 @@
 
 Required software:
   1. Compilers: [.NET](https://microsoft.com/net/download/framework) (Windows),  [.NET Core](https://www.microsoft.com/net/download/core) (Windows, Mac OS, Linux), [Mono](http://www.mono-project.com/download/) (Windows, Mac OS, Linux)
-  2. Linters: [C# Linter for VS Code] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
+  2. Linters: [C# Linter for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
   3. VCS - Version Control System: [GitHub](https://github.com/), [Git](https://git-scm.com/), [GUI](https://desktop.github.com/)
 
 Optional tools:
