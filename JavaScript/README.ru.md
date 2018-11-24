@@ -9,5 +9,5 @@
 Опциональные компоненты:
   1. IDE - редактор или среда разработки: [Brackets](http://brackets.io/), [Atom](https://atom.io/), [Webstorm](https://www.jetbrains.com/webstorm/), [Vim](http://www.vim.org/), [Sublime Text](https://www.sublimetext.com/), [Visual Studio Code](https://code.visualstudio.com/)
   2. CI - непрерывная интеграция - [TravisCI](https://travis-ci.org/), [пример конфигурации](examples/.travis.yml)
-  3. Code analysis: [BitHound](https://www.bithound.io/), [пример конфигурации](examples/.bithoundrc), [Codacy](https://www.codacy.com/)
+  3. Code analysis: [Codacy](https://www.codacy.com/)
   4. Среда запуска в браузере - [JSFiddle](https://jsfiddle.net/)
