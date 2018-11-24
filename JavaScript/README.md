@@ -9,5 +9,5 @@ Required software:
 Optional tools:
   1. IDE - Integrated development environment: [Brackets](http://brackets.io/), [Atom](https://atom.io/), [Webstorm](https://www.jetbrains.com/webstorm/), [Vim](http://www.vim.org/), [Sublime Text](https://www.sublimetext.com/), [Visual Studio Code](https://code.visualstudio.com/)
   2. CI - Continuous Integration - [TravisCI](https://travis-ci.org/), [config example](examples/.travis.yml)
-  3. Code analysis: [BitHound](https://www.bithound.io/), [config example](examples/.bithoundrc), [Codacy](https://www.codacy.com/)
+  3. Code analysis: [Codacy](https://www.codacy.com/)
   4. Browser JS Runtime - [JSFiddle](https://jsfiddle.net/)
