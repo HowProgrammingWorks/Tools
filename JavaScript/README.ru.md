@@ -2,8 +2,8 @@
 | [English](README.md) | [Русский](README.ru.md) |
 
 Обязательные компоненты:
-  1. Runtime - [Node.js](https://nodejs.org/en/) с менеджером пакетов: [npm](https://www.npmjs.com/), [пример кода](examples/example.js)
-  2. Линтер - проверка стиля кода и анализ синтаксиса - [ESLint](http://eslint.org/), [пример конфигурации](examples/.eslintrc.yml)
+  1. Runtime - [Node.js](https://nodejs.org/en/) с менеджером пакетов: [npm](https://www.npmjs.com/)
+  2. Линтер - проверка стиля кода и анализ синтаксиса - [ESLint](http://eslint.org/), [пример конфигурации](examples/.eslintrc.json)
   3. VCS - система контроля версий - [GitHub](https://github.com/), [Git](https://git-scm.com/), [GUI](https://desktop.github.com/)
 
 Опциональные компоненты:

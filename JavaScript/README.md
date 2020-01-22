@@ -2,8 +2,8 @@
 | [English](README.md) | [Русский](README.ru.md) |
 
 Required software:
-  1. Runtime - [Node.js](https://nodejs.org/en/) with package manager: [npm](https://www.npmjs.com/), [code example](examples/example.js)
-  2. Linter - Code style and syntax templates checker - [ESLint](http://eslint.org/), [config example](examples/.eslintrc.yml)
+  1. Runtime - [Node.js](https://nodejs.org/en/) with package manager: [npm](https://www.npmjs.com/)
+  2. Linter - Code style and syntax templates checker - [ESLint](http://eslint.org/), [config example](examples/.eslintrc.json)
   3. VCS - Version Control System - [GitHub](https://github.com/), [Git](https://git-scm.com/), [GUI](https://desktop.github.com/)
 
 Optional tools:
